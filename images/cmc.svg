@@ -8,9 +8,7 @@
     </clipPath>
   </defs>
   <g id="cmc" clip-path="url(#clip-cmc)">
-    <rect width="207" height="64"/>
     <g id="Group_6" data-name="Group 6" transform="translate(-2210 -2854)">
-      <rect id="Image_5" data-name="Image 5" width="206" height="64" transform="translate(2210 2854)"/>
       <rect id="cmc-2" width="198" height="53" transform="translate(2218 2860)" fill="url(#pattern)"/>
     </g>
   </g>

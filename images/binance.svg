@@ -8,9 +8,8 @@
     </clipPath>
   </defs>
   <g id="binance" clip-path="url(#clip-binance)">
-    <rect width="207" height="64"/>
     <g id="Group_6" data-name="Group 6" transform="translate(-2210 -2854)">
-      <rect id="Image_5" data-name="Image 5" width="206" height="64" transform="translate(2210 2854)"/>
+      <rect id="Image_5" data-name="Image 5" width="206" height="64" transform="translate(2210 2854)" fill="none"/>
     </g>
     <rect id="solana-logo" width="219" height="52" transform="translate(-7 4)" fill="url(#pattern)"/>
   </g>
