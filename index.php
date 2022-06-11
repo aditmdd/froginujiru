@@ -38,15 +38,36 @@ require('head.php');
                         <div class="col-lg-7 col-md-6">
                             <div class="title-heading">
                                 <h1 class="heading text-white mb-3 text-primary">Smart Investment with your finger</h1>
-                                <p class="para-desc text-white-50">Vim gives you the convenience and ease of Investing crypto in a Decentralized Exchange that supports 12 blockchain networks securely.</p>
+                                <p class="para-desc text-white-50">Vim finance gives you the convenience and ease of Investing crypto in a Decentralized Exchange that supports 12 blockchain networks securely.</p>
                                 <div class="mt-4 pt-2">
                                     <a href="#project" class="btn btn-custom mb-2 mr-2">Explore VIM</a>
+                                    <a href="https://pancakeswap.finance/swap/0x798ae4b3de15744a789d8e68a2e88522efa37c25" target="_blank" class="btn btn-custom mb-2 mr-2">Buy $VIM</a>
                                 </div>
+                                <br>
+                                <div class="row">
+                                    <div class="col-5 col-md-3">
+                                        <span class="text-white-50">
+                                            Audit & KYC by <br>
+                                            <a href="https://dessertswap.finance/audits/Vim-Finance-BSC-Audit-16871968.pdf" target="_blank">
+                                                <img src="images/dessertfinance.png" alt="Vim Finance" width="130">
+                                            </a>
+                                        </span>
+                                    </div>
+
+                                    <div class="col-5 col-md-3">
+                                        <span class="text-white-50">
+                                            Protection by<br>
+                                            <!-- https://www.dmca.com/r/p077kr0 -->
+                                            <a href="#" title="DMCA.com Protection Status" class="dmca-badge"> <img style="padding-top: 10px;" src="https://images.dmca.com/Badges/dmca_protected_sml_120af.png?ID=ff7f121c-ea75-4a92-be07-b289a55c185e" alt="DMCA.com Protection Status" /></a>
+                                        </span>
+                                    </div>
+                                </div>
+
                             </div>
                         </div>
                         <!--end col-->
 
-                        <div class="col-lg-5 col-md-6 mt-4 pt-2">
+                        <div class="col-lg-5 col-md-6 mt-4 pt-2 order-first order-md-last">
                             <div class="home-img text-md-right">
                                 <lottie-player src="https://assets1.lottiefiles.com/private_files/lf30_c9jqieok.json" background="transparent" speed="1" style="width: 100%; height: 100%;" loop autoplay></lottie-player>
                                 <!-- <img src="images/home/mobile01.png" class="img-fluid mover-img" alt=""> -->
@@ -75,7 +96,8 @@ require('head.php');
                     <div class="about-app ml-lg-4">
                         <h4 class="text-secondary title text-uppercase mt-2 mb-3">VIM Swap</h4>
                         <p class="text-muted">Swap platform or decentralized currency exchange users can exchange their currency for the currency they want.</p>
-                        <a href="javascript:void(0)" class="btn btn-custom mt-2">Launch Swap</a>
+                        <!-- <a href="javascript:void(0)" class="btn btn-custom mt-2">Launch Swap</a> -->
+                        <a href="https://vimswap.netlify.app/#/swap" class="btn btn-custom mt-2">Launch Swap</a>
                     </div>
                 </div>
                 <!--end col-->
@@ -86,7 +108,7 @@ require('head.php');
                 <div class="col-md-7 mt-4 mt-sm-0 pt-2 pt-sm-0 order-2 order-md-1">
                     <div class="about-app mr-lg-4">
                         <h4 class="text-secondary title text-uppercase mt-2 mb-3">VIM Wallet</h4>
-                        <p class="text-muted">Is a smart digital wallet that integrates a currency exchange platform and a marketplace in real-time that allows users to sell currencies or other assets pear to pear.</p>
+                        <p class="text-muted">Is a smart digital wallet that integrates a currency exchange platform and a marketplace in real-time that allows users to sell currencies or other assets peer-to-peer.</p>
                         <a href="javascript:void(0)" class="btn btn-custom mt-2">Launch Wallet</a>
                     </div>
                 </div>
@@ -157,7 +179,7 @@ require('head.php');
 
                 <div class="col-lg-4 mt-4 pt-2 core-service-img">
                     <div class="ml-lg-4 mr-lg-4">
-                        <img src="images/features.png?v=1.1" class="img-fluid mx-auto" alt="">
+                        <img src="images/features.png?v=1.1" class="img-fluid mx-auto" alt="Vim Finance">
                     </div>
                 </div>
                 <!--end col-->
@@ -221,7 +243,7 @@ require('head.php');
                 <div class="col-md-4 mt-4 pt-2">
                     <div class="device-feature device-border text-center">
                         <div class="icon mb-4 position-relative d-inline-block">
-                            <img src="images/icon/pc.png" class="img-fluid" alt="">
+                            <img src="images/icon/pc.png" class="img-fluid" alt="Vim Finance">
                         </div>
                         <div class="content">
                             <h4 class="text-secondary title mb-3">PC / Laptop</h4>
@@ -233,7 +255,7 @@ require('head.php');
                 <div class="col-md-4 mt-4 pt-2">
                     <div class="device-feature device-border text-center">
                         <div class="icon mb-4 position-relative d-inline-block">
-                            <img src="images/icon/ipad.png" class="img-fluid" alt="">
+                            <img src="images/icon/ipad.png" class="img-fluid" alt="Vim Finance">
                         </div>
                         <div class="content">
                             <h4 class="text-secondary title mb-3">Tablet / Ipad</h4>
@@ -245,7 +267,7 @@ require('head.php');
                 <div class="col-md-4 mt-4 pt-2">
                     <div class="device-feature text-center">
                         <div class="icon mb-4 position-relative d-inline-block">
-                            <img src="images/icon/app.png" class="img-fluid" alt="">
+                            <img src="images/icon/app.png" class="img-fluid" alt="Vim Finance">
                         </div>
                         <div class="content">
                             <h4 class="text-secondary title mb-3">Cell Phone</h4>
@@ -258,7 +280,7 @@ require('head.php');
 
             <div class="row justify-content-center mt-5 pt-2">
                 <div class="col-9">
-                    <img src="images/mobile-hori.png" class="img-fluid mover-img" alt="">
+                    <img src="images/mobile-hori.png" class="img-fluid mover-img" alt="Vim Finance">
                 </div>
                 <!--end col-->
             </div>
@@ -270,10 +292,10 @@ require('head.php');
     <section class="section" id="review" style="background-color: #070b0d;padding-bottom: 0;">
         <div class="container">
             <div class="row text-center">
-                <div class="col-lg-3 col-md-4 col-12" style="padding: 10px 0;"><img src="images/binance.svg" class="img-fluid" alt=""></div>
-                <div class="col-lg-3 col-md-4 col-12" style="padding: 10px 0;"><img src="images/bscscan.svg" class="img-fluid" alt=""></div>
-                <div class="col-lg-3 col-md-4 col-12" style="padding: 10px 0;"><img src="images/cmc.svg" class="img-fluid" alt=""></div>
-                <div class="col-lg-3 col-md-4 col-12" style="padding: 10px 0;"><img src="images/cg.svg" class="img-fluid" alt=""></div>
+                <div class="col-lg-3 col-md-4 col-12" style="padding: 10px 0;"><img src="images/binance.svg" class="img-fluid" alt="Vim Finance"></div>
+                <div class="col-lg-3 col-md-4 col-12" style="padding: 10px 0;"><img src="images/bscscan.svg" class="img-fluid" alt="Vim Finance"></div>
+                <div class="col-lg-3 col-md-4 col-12" style="padding: 10px 0;"><img src="images/cmc.svg" class="img-fluid" alt="Vim Finance"></div>
+                <div class="col-lg-3 col-md-4 col-12" style="padding: 10px 0;"><img src="images/cg.svg" class="img-fluid" alt="Vim Finance"></div>
             </div>
         </div>
 
@@ -299,8 +321,8 @@ require('head.php');
             <div class="row justify-content-center">
                 <div class="col-md-10">
                     <ul class="list-unstyled mb-0 app-download text-center">
-                        <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/apple.png" class="img-fluid mt-2" alt=""></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/google.png" class="img-fluid mt-2" alt=""></a></li>
+                        <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/apple.png" class="img-fluid mt-2" alt="Vim Finance"></a></li>
+                        <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/google.png" class="img-fluid mt-2" alt="Vim Finance"></a></li>
                     </ul>
                 </div>
                 <!--end col-->
@@ -308,6 +330,32 @@ require('head.php');
             <!--end row-->
         </div>
         <!--end container-->
+    </section>
+    <section class="section">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="section-title text-center">
+                        <h4 class="title text-secondary text-uppercase text-light mt-3 mb-5">Glad to Know You!</h4>
+                    </div>
+                </div>
+                <!--end col-->
+            </div>
+            <div class="row">
+                <div class="col-12 col-md-6">
+                    <blockquote class="twitter-tweet" data-theme="dark">
+                        <p lang="en" dir="ltr">Vim Finance will be listed on P2PB2B<br> <br>Vim finance is a blockchain-based digital wallet platform that combines a marketplace platform with decentralized peer-to-peer technology.<br> <br>🔸Website: <a href="https://t.co/b57wvZNEMZ">https://t.co/b57wvZNEMZ</a><br>🔸Twitter: <a href="https://t.co/JZFqx2M1RW">https://t.co/JZFqx2M1RW</a> <a href="https://t.co/OVOmByeF2w">pic.twitter.com/OVOmByeF2w</a></p>&mdash; P2PB2B Exchange (@p2pb2b) <a href="https://twitter.com/p2pb2b/status/1514173402248065028?ref_src=twsrc%5Etfw">April 13, 2022</a>
+                    </blockquote>
+                    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+
+                <div class="col-12 col-md-6">
+                    <iframe id="reddit-embed" src="https://www.redditmedia.com/user/vimfinance/comments/u2kdmb/vim_finance_vim_the_next_moonshot_in_defi/?ref_source=embed&amp;ref=share&amp;embed=true&amp;theme=dark" sandbox="allow-scripts allow-same-origin allow-popups" style="margin-top:10px; border: none;" height="500" width="100%" scrolling="no"></iframe>
+                </div>
+            </div>
+
+
+        </div>
     </section>
 
 
